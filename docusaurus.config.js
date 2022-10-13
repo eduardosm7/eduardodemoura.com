@@ -9,7 +9,7 @@ const config = {
   title: 'Eduardo de Moura',
   tagline: 'Simply abstract',
   url: 'https://github.com',
-  baseUrl: '/eduardodemoura.com/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
