@@ -4,7 +4,7 @@ import DocCardList from '@theme/DocCardList';
 
 :::tip Looking for the PDF version?
 
-[Click here to download the PDF version](/img/logo.svg)
+[Click here to view the PDF version](/pdf/cv-eduardo-de-moura.pdf)
 
 :::
 
