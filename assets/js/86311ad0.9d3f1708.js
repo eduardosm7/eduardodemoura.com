@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkeduardodemoura_com=self.webpackChunkeduardodemoura_com||[]).push([[776],{1868:o=>{o.exports=JSON.parse('{"permalink":"/eduardodemoura.com/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

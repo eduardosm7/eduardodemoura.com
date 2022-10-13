@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkeduardodemoura_com=self.webpackChunkeduardodemoura_com||[]).push([[272],{2965:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/eduardodemoura.com/blog/tags/hola","allTagsPath":"/eduardodemoura.com/blog/tags","count":1}')}}]);

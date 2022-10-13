@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkeduardodemoura_com=self.webpackChunkeduardodemoura_com||[]).push([[709],{7926:o=>{o.exports=JSON.parse('{"permalink":"/eduardodemoura.com/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
