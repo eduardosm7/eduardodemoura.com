@@ -49,6 +49,15 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: "dark",
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+      },
+      announcementBar: {
+        id: 'announcementBar-1', // Increment on change
+        content: `This website is still in progress...`,
+      },
       navbar: {
         title: 'Eduardo de Moura',
         logo: {
@@ -69,11 +78,6 @@ const config = {
             label: 'Curriculum Vitae',
           },
           {to: '/blog', label: 'Blog', position: 'right'},
-          {
-            href: 'https://github.com/eduardosm7',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
@@ -86,22 +90,34 @@ const config = {
                 label: 'About',
                 to: '/docs/about',
               },
+              {
+                label: 'Curriculum Vitae',
+                to: '/docs/curriculum-vitae',
+              },
             ],
           },
           {
-            title: 'Community',
+            title: 'Links',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/eduardodemoura/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Github',
+                href: 'https://github.com/eduardosm7',
+              },
+              {
+                label: 'Instagram',
+                href: 'https://www.instagram.com/eduardo.nothing/',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/DuNetuno',
+              },
+              {
+                label: 'Spotify',
+                href: 'https://open.spotify.com/user/udedu?si=17c7848874b64b78',
               },
             ],
           },
@@ -111,10 +127,6 @@ const config = {
               {
                 label: 'Blog',
                 to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
