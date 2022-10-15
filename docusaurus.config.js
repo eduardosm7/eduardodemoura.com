@@ -56,7 +56,7 @@ const config = {
       },
       announcementBar: {
         id: 'announcementBar-1', // Increment on change
-        content: `This website is still in progress...`,
+        content: `This website is being built...`,
       },
       navbar: {
         title: 'Eduardo de Moura',
@@ -77,8 +77,31 @@ const config = {
             position: 'left',
             label: 'Curriculum Vitae',
           },
+          {
+            type: 'doc',
+            docId: 'interests',
+            position: 'left',
+            label: 'Interests',
+          },
+          {
+            type: 'doc',
+            docId: 'readings',
+            position: 'left',
+            label: 'Readings',
+          },
+          {
+            type: 'doc',
+            docId: 'covers',
+            position: 'left',
+            label: 'Covers',
+          },
           {to: '/blog', label: 'Blog', position: 'right'},
         ],
+      },
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
       },
       footer: {
         style: 'dark',
@@ -93,6 +116,18 @@ const config = {
               {
                 label: 'Curriculum Vitae',
                 to: '/docs/curriculum-vitae',
+              },
+              {
+                label: 'Interests',
+                to: '/docs/Interests',
+              },
+              {
+                label: 'Readings',
+                to: '/docs/readings',
+              },
+              {
+                label: 'Covers',
+                to: '/docs/covers',
               },
             ],
           },
