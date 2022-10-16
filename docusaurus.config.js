@@ -62,7 +62,7 @@ const config = {
         title: 'Eduardo de Moura',
         logo: {
           alt: 'Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo32.png',
         },
         items: [
           {
