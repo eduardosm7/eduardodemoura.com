@@ -73,7 +73,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'curriculum-vitae/curriculum-vitae',
+            docId: 'curriculum-vitae',
             position: 'left',
             label: 'Curriculum Vitae',
           },
@@ -88,6 +88,12 @@ const config = {
             docId: 'interests',
             position: 'left',
             label: 'Interests',
+          },
+          {
+            type: 'doc',
+            docId: 'goals',
+            position: 'left',
+            label: 'Goals',
           },
           {
             type: 'doc',
@@ -130,6 +136,10 @@ const config = {
               {
                 label: 'Interests',
                 to: '/docs/interests',
+              },
+              {
+                label: 'Goals',
+                to: '/docs/goals',
               },
               {
                 label: 'Videos',
