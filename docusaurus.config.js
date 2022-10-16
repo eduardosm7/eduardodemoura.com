@@ -79,21 +79,27 @@ const config = {
           },
           {
             type: 'doc',
+            docId: 'world-view',
+            position: 'left',
+            label: 'World View',
+          },
+          {
+            type: 'doc',
             docId: 'interests',
             position: 'left',
             label: 'Interests',
           },
           {
             type: 'doc',
-            docId: 'readings',
+            docId: 'videos',
             position: 'left',
-            label: 'Readings',
+            label: 'Videos',
           },
           {
             type: 'doc',
-            docId: 'covers',
+            docId: 'readings',
             position: 'left',
-            label: 'Covers',
+            label: 'Readings',
           },
           {to: '/blog', label: 'Blog', position: 'right'},
         ],
@@ -118,16 +124,20 @@ const config = {
                 to: '/docs/curriculum-vitae',
               },
               {
+                label: 'World View',
+                to: '/docs/world-view',
+              },
+              {
                 label: 'Interests',
-                to: '/docs/Interests',
+                to: '/docs/interests',
+              },
+              {
+                label: 'Videos',
+                to: '/docs/videos',
               },
               {
                 label: 'Readings',
                 to: '/docs/readings',
-              },
-              {
-                label: 'Covers',
-                to: '/docs/covers',
               },
             ],
           },
