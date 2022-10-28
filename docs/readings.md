@@ -20,4 +20,4 @@ If you have similar book interests, please reach out. I'd be glad to discuss the
 | What is this thing called Knowledge? | Duncan Pritchard | In progress |
 | Rich Dad Poor Dad | Robert T. Kiyosaki | Complete |
 | Principles of Economics | N. Gregory Mankiw | In progress |
-| Predictably Irrational | Dan Ariely | In progress |
+| Predictably Irrational | Dan Ariely | Complete |
