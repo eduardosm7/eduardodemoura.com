@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeduardodemoura_com=self.webpackChunkeduardodemoura_com||[]).push([[713],{3457:e=>{e.exports=JSON.parse('[{"label":"test","permalink":"/blog/tags/test","count":1}]')}}]);
