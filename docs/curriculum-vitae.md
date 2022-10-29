@@ -4,6 +4,12 @@ sidebar_position: 2
 
 # Curriculum Vitae
 
+:::note
+
+This page is still being built...
+
+:::
+
 :::tip Looking for the PDF version?
 
 [Click here to view the PDF version](/pdf/cv-eduardo-de-moura.pdf)

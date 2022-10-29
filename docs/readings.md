@@ -21,4 +21,4 @@ If you have similar book interests, please reach out. I'd be glad to discuss the
 | Rich Dad Poor Dad | Robert T. Kiyosaki | Complete |
 | Principles of Economics | N. Gregory Mankiw | In progress |
 | Predictably Irrational | Dan Ariely | Complete |
-| To Sell Is Human | Daniel H. Pink | Complete |
+| To Sell Is Human | Daniel H. Pink | In progress |
