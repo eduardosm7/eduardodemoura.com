@@ -22,4 +22,4 @@ If you have similar book interests, please reach out. I'd be glad to discuss the
 | Principles of Economics | N. Gregory Mankiw | In progress |
 | Predictably Irrational | Dan Ariely | Complete |
 | To Sell Is Human | Daniel H. Pink | Complete |
-| Good Enough | Daniel S. Milo | In progress |
+| Good Enough | Daniel S. Milo | Complete |
