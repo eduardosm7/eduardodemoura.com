@@ -23,3 +23,4 @@ If you have similar book interests, please reach out. I'd be glad to discuss the
 | Predictably Irrational | Dan Ariely | Complete |
 | To Sell Is Human | Daniel H. Pink | Complete |
 | Good Enough | Daniel S. Milo | Complete |
+| The Challenger Sale | Matthew Dixon, Brent Adamson | In progress |
