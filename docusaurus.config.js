@@ -174,6 +174,14 @@ const config = {
                 label: 'Spotify',
                 href: 'https://open.spotify.com/user/udedu?si=17c7848874b64b78',
               },
+              {
+                label: 'last.fm',
+                href: 'https://www.last.fm/pt/user/udedu',
+              },
+              {
+                label: 'DOTABUFF',
+                href: 'https://www.dotabuff.com/players/92984991',
+              },
             ],
           },
           {
