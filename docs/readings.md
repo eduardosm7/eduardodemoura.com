@@ -24,6 +24,8 @@ If you have similar book interests, please reach out. I'd be glad to discuss the
 | To Sell Is Human                           | Daniel H. Pink                | Complete    |
 | Good Enough                                | Daniel S. Milo                | Complete    |
 | The Challenger Sale                        | Matthew Dixon, Brent Adamson  | Complete    |
+| The Simple Path to Wealth                  | JL Collins                    | Complete    |
+| Trading In the Zone                        | Mark Douglas                  | In progress |
 | Meditations                                | Marcus Aurelius               | In queue    |
 | Thinking Strategically                     | Avinash K. Dixit              | In queue    |
 | Thinking, Fast and Slow                    | Daniel Kahneman               | In queue    |
@@ -31,10 +33,8 @@ If you have similar book interests, please reach out. I'd be glad to discuss the
 | How To Win Friends & Influence People      | Dale Carnegie                 | In queue    |
 | Never Split the Difference                 | Chriss Voss                   | In queue    |
 | Playing with FIRE (Financial Independence Retire Early) | Scott Riekens    | In queue    |
-| The Simple Path to Wealth                  | JL Collins                    | In queue    |
 | The Millionarie Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime | MJ DeMarco | In queue |
 | How to Day Trade for a Living              | Andrew Aziz                   | In queue    |
-| Trading In the Zone                        | Mark Douglas                  | In queue    |
 | The Only Investment Guide You'll Ever Need | Andrew Tobias                 | In queue    |
 | The Four Pillars of Investing              | William J. Bernstein          | In queue    |
 | How to Invest in Real Estate               | Brandon Turner, Joshua Dorkin | In queue    |
