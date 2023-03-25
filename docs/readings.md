@@ -25,7 +25,10 @@ If you have similar book interests, please reach out. I'd be glad to discuss the
 | Good Enough                                | Daniel S. Milo                | Complete    |
 | The Challenger Sale                        | Matthew Dixon, Brent Adamson  | Complete    |
 | The Simple Path to Wealth                  | JL Collins                    | Complete    |
-| Trading In the Zone                        | Mark Douglas                  | In progress |
+| Trading In the Zone                        | Mark Douglas                  | Complete    |
+| Norse Mythology                            | Neil Gaiman                   | In progress |
+| Bigger Leaner Stronger                     | Michel Mattews                | In progress |
+| Learn German with Paul Noble for Begginers | Paul Noble                    | In progress |
 | Meditations                                | Marcus Aurelius               | In queue    |
 | Thinking Strategically                     | Avinash K. Dixit              | In queue    |
 | Thinking, Fast and Slow                    | Daniel Kahneman               | In queue    |
