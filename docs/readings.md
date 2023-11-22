@@ -19,25 +19,26 @@ If you have similar book interests, please reach out. I'd be glad to discuss the
 | ------------------------------------------ | ----------------------------- | ----------- |
 | What is this thing called Knowledge?       | Duncan Pritchard              | On hold     |
 | Rich Dad Poor Dad                          | Robert T. Kiyosaki            | Complete    |
-| Principles of Economics                    | N. Gregory Mankiw             | In progress |
+| Principles of Economics                    | N. Gregory Mankiw             | On hold     |
 | Predictably Irrational                     | Dan Ariely                    | Complete    |
 | To Sell Is Human                           | Daniel H. Pink                | Complete    |
 | Good Enough                                | Daniel S. Milo                | Complete    |
 | The Challenger Sale                        | Matthew Dixon, Brent Adamson  | Complete    |
 | The Simple Path to Wealth                  | JL Collins                    | Complete    |
 | Trading In the Zone                        | Mark Douglas                  | Complete    |
-| Norse Mythology                            | Neil Gaiman                   | In progress |
-| Bigger Leaner Stronger                     | Michel Mattews                | In progress |
-| Learn German with Paul Noble for Begginers | Paul Noble                    | In progress |
+| Dotcom Secrets                             | Russell Brunson               | Complete    |
+| Norse Mythology                            | Neil Gaiman                   | On hold     |
+| Bigger Leaner Stronger                     | Michel Mattews                | On hold     |
+| Learn German with Paul Noble for Begginers | Paul Noble                    | On hold     |
+| How to Invest in Real Estate               | Brandon Turner, Joshua Dorkin | On hold     |
+| How To Win Friends & Influence People      | Dale Carnegie                 | In queue    |
 | Meditations                                | Marcus Aurelius               | In queue    |
 | Thinking Strategically                     | Avinash K. Dixit              | In queue    |
 | Thinking, Fast and Slow                    | Daniel Kahneman               | In queue    |
 | A Random Walk Down Wall Street             | Burton G. Malkiel             | In queue    |
-| How To Win Friends & Influence People      | Dale Carnegie                 | In queue    |
 | Never Split the Difference                 | Chriss Voss                   | In queue    |
 | Playing with FIRE (Financial Independence Retire Early) | Scott Riekens    | In queue    |
 | The Millionarie Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime | MJ DeMarco | In queue |
 | How to Day Trade for a Living              | Andrew Aziz                   | In queue    |
 | The Only Investment Guide You'll Ever Need | Andrew Tobias                 | In queue    |
 | The Four Pillars of Investing              | William J. Bernstein          | In queue    |
-| How to Invest in Real Estate               | Brandon Turner, Joshua Dorkin | In queue    |

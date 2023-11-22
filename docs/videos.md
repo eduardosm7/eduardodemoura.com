@@ -14,7 +14,7 @@ If you want to check out the full list of my covers, [this playlist is the right
 
 :::note Cringe alert!
 
-Though, If you want to check out my _not listed_ covers, [this playlist is the right place to go](https://www.youtube.com/playlist?list=PLj3dKq6YF-ShGESZJT9AhElt2Vehi1Ucq). You were warned...
+Though, If you want to check out my _not listed_ covers, [this playlist is the right place to go](https://www.youtube.com/playlist?list=PLj3dKq6YF-ShGESZJT9AhElt2Vehi1Ucq). You've been warned...
 
 :::
 
