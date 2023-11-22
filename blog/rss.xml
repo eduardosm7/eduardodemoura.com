@@ -11,7 +11,7 @@
         <item>
             <title><![CDATA[Hello, this is just a test.]]></title>
             <link>https://github.com/blog/test-blog-post</link>
-            <guid>test-blog-post</guid>
+            <guid>https://github.com/blog/test-blog-post</guid>
             <pubDate>Sun, 30 Oct 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
             <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
