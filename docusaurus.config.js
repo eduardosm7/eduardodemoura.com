@@ -8,7 +8,7 @@ const darkTheme = themes.dracula;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Eduardo de Moura',
-  tagline: 'Simply abstract',
+  tagline: 'Simply overrated',
   url: 'https://github.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
