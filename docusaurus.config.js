@@ -80,12 +80,6 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'quotes',
-            position: 'left',
-            label: 'Quotes',
-          },
-          {
-            type: 'doc',
             docId: 'interests',
             position: 'left',
             label: 'Interests',
@@ -107,6 +101,12 @@ const config = {
             docId: 'readings',
             position: 'left',
             label: 'Readings',
+          },
+          {
+            type: 'doc',
+            docId: 'quotes',
+            position: 'left',
+            label: 'Quotes',
           },
           {to: '/blog', label: 'Blog', position: 'right'},
         ],
@@ -131,10 +131,6 @@ const config = {
                 to: '/docs/curriculum-vitae',
               },
               {
-                label: 'Quotes',
-                to: '/docs/quotes',
-              },
-              {
                 label: 'Interests',
                 to: '/docs/interests',
               },
@@ -149,6 +145,10 @@ const config = {
               {
                 label: 'Readings',
                 to: '/docs/readings',
+              },
+              {
+                label: 'Quotes',
+                to: '/docs/quotes',
               },
             ],
           },
