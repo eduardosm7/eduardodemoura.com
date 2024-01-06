@@ -80,9 +80,9 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'world-view',
+            docId: 'quotes',
             position: 'left',
-            label: 'World View',
+            label: 'Quotes',
           },
           {
             type: 'doc',
@@ -131,8 +131,8 @@ const config = {
                 to: '/docs/curriculum-vitae',
               },
               {
-                label: 'World View',
-                to: '/docs/world-view',
+                label: 'Quotes',
+                to: '/docs/quotes',
               },
               {
                 label: 'Interests',
