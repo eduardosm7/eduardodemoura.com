@@ -4,8 +4,4 @@ sidebar_position: 7
 
 # Quotes
 
-:::note
-
-This page is still being built...
-
-:::
+- “You miss 100% of the shots you don’t take - Wayne Gretzky” - Michael Scott
