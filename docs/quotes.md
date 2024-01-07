@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # Quotes
 
-Quotes that I stumble upon randomly and that I want my future self to remember:
+Quotes that I stumbled upon randomly and that I want my future self to remember (this should be an evergrowing list):
 
 - "You miss 100% of the shots you don’t take - Wayne Gretzky" - Michael Scott
 - "From even the greatest of horrors, irony is seldom absent" - H. P. Lovecraft
