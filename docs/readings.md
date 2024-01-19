@@ -25,7 +25,8 @@ If you have similar book interests, please reach out. I'd be glad to discuss the
 | The Simple Path to Wealth                  | JL Collins                         | <span style={{color:'green'}}>Complete</span>     |
 | Trading In the Zone                        | Mark Douglas                       | <span style={{color:'green'}}>Complete</span>     |
 | Dotcom Secrets                             | Russell Brunson                    | <span style={{color:'green'}}>Complete</span>     |
-| How To Win Friends & Influence People      | Dale Carnegie                      | <span style={{color:'orange'}}>In progress</span> |
+| How To Win Friends & Influence People      | Dale Carnegie                      |  <span style={{color:'green'}}>Complete</span>    |
+| $100M Offers                               | Alex Hormozi                       | <span style={{color:'orange'}}>In progress</span> |
 | What is this thing called Knowledge?       | Duncan Pritchard                   | <span style={{color:'red'}}>On hold</span>        |
 | Principles of Economics                    | N. Gregory Mankiw                  | <span style={{color:'red'}}>On hold</span>        |
 | Norse Mythology                            | Neil Gaiman                        | <span style={{color:'red'}}>On hold</span>        |
