@@ -183,6 +183,10 @@ const config = {
                 label: 'DOTABUFF',
                 href: 'https://www.dotabuff.com/players/92984991',
               },
+              {
+                label: 'MuseScore',
+                href: 'https://musescore.com/user/88286266',
+              },
             ],
           },
           {
