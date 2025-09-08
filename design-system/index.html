@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Design System Demo</title>
+  <link rel="stylesheet" href="styles/main.css" />
+</head>
+<body>
+  <div class="container">
+    <header class="header section">
+      <h1 class="header__title">My Minimal Site</h1>
+      <nav class="header__nav">
+        <a href="#typography">Typography</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+      </nav>
+      <button class="btn theme-toggle" onclick="toggleTheme()">Toggle Theme</button>
+    </header>
+
+    <section class="section">
+      <h2>Typography</h2>
+      <p>Body text example. Lorem ipsum dolor sit amet.</p>
+      <p><strong>Bold text</strong> and <em>italic text</em>.</p>
+      <h3>Heading 3 Example</h3>
+    </section>
+
+    <section class="section">
+      <h2>Buttons</h2>
+      <button class="btn">Default Button</button>
+      <button class="btn">Secondary Button</button>
+    </section>
+
+    <section class="section">
+      <h2>Inputs</h2>
+      <input class="input" type="text" placeholder="Text input" />
+      <br /><br />
+      <textarea class="input" rows="3" placeholder="Textarea input"></textarea>
+    </section>
+
+    <section class="section">
+      <h2>Cards</h2>
+      <div class="card">
+        <h3>Card Title</h3>
+        <p>This is a simple card with padding and border.</p>
+        <button class="btn">Action</button>
+      </div>
+      <div class="card">
+        <h3>Another Card</h3>
+        <p>Cards can contain anything.</p>
+        <input class="input" type="text" placeholder="Card input" />
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>Tables</h2>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Item</th>
+            <th>Category</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Todo App</td>
+            <td>Productivity</td>
+            <td>Complete</td>
+          </tr>
+          <tr>
+            <td>Notes App</td>
+            <td>Writing</td>
+            <td>In Progress</td>
+          </tr>
+          <tr>
+            <td>Todo App</td>
+            <td>Productivity</td>
+            <td>Complete</td>
+          </tr>
+          <tr>
+            <td>Notes App</td>
+            <td>Writing</td>
+            <td>In Progress</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="section">
+      <h2>Videos</h2>
+      <div class="video">
+        <iframe 
+          src="https://www.youtube.com/embed/VNgDEIwpPZM?si=p4PR6I27QW_jk6Ni"
+          title="YouTube video"
+          allowfullscreen>
+        </iframe>
+      </div>
+    </section>
+
+    <footer class="footer section">
+      <p>&copy; 2025 Your Name. All rights reserved.</p>
+    </footer>
+  </div>
+
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const newTheme = html.getAttribute("data-theme") === "light" ? "dark" : "light";
+      html.setAttribute("data-theme", newTheme);
+      document.body.style.transition = "background-color 0.2s ease, color 0.2s ease";
+      localStorage.setItem("theme", newTheme);
+    }
+
+    const savedTheme = localStorage.getItem("theme");
+    if (savedTheme) {
+      document.documentElement.setAttribute("data-theme", savedTheme);
+    }
+  </script>
+</body>
+</html>

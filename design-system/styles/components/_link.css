@@ -1,0 +1,15 @@
+.link {
+  color: var(--color-text);
+  text-decoration: underline;
+  transition: color 0.2s ease, opacity 0.2s ease;
+}
+
+.link:hover,
+.link:focus {
+  opacity: 0.75;
+  text-decoration: underline;
+}
+
+.link:visited {
+  color: var(--color-muted);
+}

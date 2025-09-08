@@ -1,0 +1,22 @@
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: var(--space-md, 16px);
+  font-size: var(--font-size-base, 16px);
+}
+
+.table thead {
+  background-color: var(--color-muted);
+  color: var(--color-bg);
+}
+
+.table th,
+.table td {
+  padding: var(--space-sm, 8px);
+  border: 1px solid var(--color-text);
+  text-align: left;
+}
+
+.table tbody tr:nth-child(even) {
+  background-color: var(--table-zebra) /* subtle zebra striping */
+}

@@ -1,0 +1,6 @@
+html[data-theme="dark"] {
+  --color-bg: #2D2828;
+  --color-text: #F1EDE3;
+  --color-muted: #999999;
+  --table-zebra: rgba(255, 255, 255, 0.05);
+}

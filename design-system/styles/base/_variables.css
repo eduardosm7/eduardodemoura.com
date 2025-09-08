@@ -1,0 +1,8 @@
+:root {
+  --color-bg: #ffffff;
+  --color-text: #000000;
+  --font-family: 'Inter', sans-serif;
+  --radius: 6px;
+  --space-lg: 32px;
+  --space-md: 16px;
+}
