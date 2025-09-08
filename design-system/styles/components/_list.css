@@ -1,0 +1,9 @@
+.list {
+  list-style: disc inside;
+  padding-left: 1rem; /* or use var(--space-md) if you prefer */
+  margin-bottom: var(--space-md);
+}
+
+.list li {
+  margin-bottom: 4px; /* tiny vertical spacing between items */
+}

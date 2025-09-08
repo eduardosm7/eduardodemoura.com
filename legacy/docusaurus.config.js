@@ -8,7 +8,7 @@ const darkTheme = themes.dracula;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Eduardo de Moura',
-  tagline: 'Simply overrated',
+  tagline: '',
   url: 'https://github.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -74,18 +74,6 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'curriculum-vitae',
-            position: 'left',
-            label: 'Curriculum Vitae',
-          },
-          {
-            type: 'doc',
-            docId: 'interests',
-            position: 'left',
-            label: 'Interests',
-          },
-          {
-            type: 'doc',
             docId: 'goals',
             position: 'left',
             label: 'Goals',
@@ -125,14 +113,6 @@ const config = {
               {
                 label: 'About',
                 to: '/docs/about',
-              },
-              {
-                label: 'Curriculum Vitae',
-                to: '/docs/curriculum-vitae',
-              },
-              {
-                label: 'Interests',
-                to: '/docs/interests',
               },
               {
                 label: 'Goals',

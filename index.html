@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Design System Demo</title>
+  <link rel="stylesheet" href="design-system/styles/main.css" />
+  <link rel="icon" href="static/favicon.ico" type="image/x-icon" />
+
+</head>
+<body>
+  <div class="container">
+    <header class="header section">
+      <h1 class="header__title">Eduardo de Moura</h1>
+      <nav class="header__nav">
+        <a href="#about">About me</a>
+        <a href="#goals">Goals</a>
+        <a href="#videos">Videos</a>
+        <a href="#readings">Readings</a>
+        <a href="#quotes">Quotes</a>
+      </nav>
+      <button class="btn theme-toggle" onclick="toggleTheme()">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-lightbulb" viewBox="0 0 16 16">
+            <path d="M2 6a6 6 0 1 1 10.174 4.31c-.203.196-.359.4-.453.619l-.762 1.769A.5.5 0 0 1 10.5 13a.5.5 0 0 1 0 1 .5.5 0 0 1 0 1l-.224.447a1 1 0 0 1-.894.553H6.618a1 1 0 0 1-.894-.553L5.5 15a.5.5 0 0 1 0-1 .5.5 0 0 1 0-1 .5.5 0 0 1-.46-.302l-.761-1.77a2 2 0 0 0-.453-.618A5.98 5.98 0 0 1 2 6m6-5a5 5 0 0 0-3.479 8.592c.263.254.514.564.676.941L5.83 12h4.342l.632-1.467c.162-.377.413-.687.676-.941A5 5 0 0 0 8 1"/>
+        </svg>
+      </button>
+    </header>
+
+    <div class="card">
+        <h3>Welcome :)</h3>
+        <p>Sometimes I add new stuff here and remove them when it gets too cringe. Hope you enjoy!</p>
+    </div>
+
+    <section class="section" id="about">
+        <h2>About me</h2>
+        <p>
+            After several tragically failed attempts to describe myself, I decided to impose some constraints to see if it works. 
+            I limited myself to only using 5 statements to depict my personality (kinda corny but I just can't escape it):
+        </p>
+
+        <ul class="list">
+            <li>Constraints can be freeing and freedom can be constraining</li>
+            <li>Generally, I find beauty in simplicity, dissonance and abstraction</li>
+            <li>“Laugh your tears away”</li>
+            <li>
+                <em><a href="https://twitter.com/jkmttr/status/1233398874133454849" class="link" target="_blank" rel="noopener noreferrer">Ska</a></em> your tears away (c)
+            </li>
+            <li>I like bullet points</li>
+        </ul>
+
+        <p>To find out more about me, feel free to explore the rest of the website :)</p>
+    </section>
+
+    <section class="section" id="goals">
+        <h2>Goals</h2>
+        <h3>Short-term</h3>
+        <ul class="list">
+            <li>Study Economics, Investment, Sales and business-related stuff</li>
+            <li>Study sources of income (other than salary, preferably passive sources)</li>
+            <li>Start getting in shape (through working out and a proper diet)</li>
+            <li>Get my first tattoo done</li>
+            <li>Record more song covers</li>
+        </ul>
+        <h3>Medium-term</h3>
+        <ul class="list">
+            <li>Start powerlifting</li>
+            <li>Start my own business/work for my own</li>
+            <li>Start practicing some martial art (BJJ and Muay Thai)</li>
+            <li>Start a YouTube channel</li>
+        </ul>
+        <h3>Long-term</h3>
+        <ul class="list">
+            <li>Be financial independent</li>
+            <li>Be fluent in Music</li>
+            <li>Record an album</li>
+            <li>Play in a band</li>
+            <li>Have kids</li>
+        </ul>
+    </section>
+
+    <section class="section" id="videos">
+        <h2>Videos</h2>
+        <p>
+            Sometimes I record myself playing some covers. For the full list you can check them out 
+            <a href="https://twitter.com/jkmttr/status/1233398874133454849" class="link" target="_blank" rel="noopener noreferrer">here</a>. 
+            Here's a free sample:
+        </p>
+        <br>
+        <div class="video">
+            <iframe 
+            src="https://www.youtube.com/embed/VNgDEIwpPZM?si=p4PR6I27QW_jk6Ni"
+            title="YouTube video"
+            allowfullscreen></iframe>
+        </div>
+    </section>
+
+    <section class="section" id="readings">
+        <h2>Readings</h2>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Author</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>Rich Dad Poor Dad</td><td>Robert T. Kiyosaki</td><td>Complete</td></tr>
+                <tr><td>Predictably Irrational</td><td>Dan Ariely</td><td>Complete</td></tr>
+                <tr><td>To Sell Is Human</td><td>Daniel H. Pink</td><td>Complete</td></tr>
+                <tr><td>Good Enough</td><td>Daniel S. Milo</td><td>Complete</td></tr>
+                <tr><td>The Challenger Sale</td><td>Matthew Dixon, Brent Adamson</td><td>Complete</td></tr>
+                <tr><td>The Simple Path to Wealth</td><td>JL Collins</td><td>Complete</td></tr>
+                <tr><td>Trading In the Zone</td><td>Mark Douglas</td><td>Complete</td></tr>
+                <tr><td>Dotcom Secrets</td><td>Russell Brunson</td><td>Complete</td></tr>
+                <tr><td>How To Win Friends & Influence People</td><td>Dale Carnegie</td><td>Complete</td></tr>
+                <tr><td>$100M Offers</td><td>Alex Hormozi</td><td>In progress</td></tr>
+                <tr><td>What is this thing called Knowledge?</td><td>Duncan Pritchard</td><td>On hold</td></tr>
+                <tr><td>Principles of Economics</td><td>N. Gregory Mankiw</td><td>On hold</td></tr>
+                <tr><td>Norse Mythology</td><td>Neil Gaiman</td><td>On hold</td></tr>
+                <tr><td>Bigger Leaner Stronger</td><td>Michel Mattews</td><td>On hold</td></tr>
+                <tr><td>Learn German with Paul Noble for Beginners</td><td>Paul Noble</td><td>On hold</td></tr>
+                <tr><td>How to Invest in Real Estate</td><td>Brandon Turner, Joshua Dorkin</td><td>On hold</td></tr>
+                <tr><td>Meditations</td><td>Marcus Aurelius</td><td>In queue</td></tr>
+                <tr><td>Thinking Strategically</td><td>Avinash K. Dixit</td><td>In queue</td></tr>
+                <tr><td>Thinking, Fast and Slow</td><td>Daniel Kahneman</td><td>In queue</td></tr>
+                <tr><td>A Random Walk Down Wall Street</td><td>Burton G. Malkiel</td><td>In queue</td></tr>
+                <tr><td>Never Split the Difference</td><td>Chriss Voss</td><td>In queue</td></tr>
+                <tr><td>Playing with FIRE (Financial Independence Retire Early)</td><td>Scott Riekens</td><td>In queue</td></tr>
+                <tr><td>The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime</td><td>MJ DeMarco</td><td>In queue</td></tr>
+                <tr><td>How to Day Trade for a Living</td><td>Andrew Aziz</td><td>In queue</td></tr>
+                <tr><td>The Only Investment Guide You'll Ever Need</td><td>Andrew Tobias</td><td>In queue</td></tr>
+                <tr><td>The Four Pillars of Investing</td><td>William J. Bernstein</td><td>In queue</td></tr>
+            </tbody>
+        </table>
+    </section>
+
+    <section class="section" id="quotes">
+        <h2>Quotes</h2>
+        <p>
+            Quotes that I stumbled upon randomly and that I want my future self to remember:
+        </p>
+
+        <ul class="list">
+            <li>"You miss 100% of the shots you don’t take - Wayne Gretzky" – Michael Scott</li>
+            <li>"From even the greatest of horrors, irony is seldom absent" – H. P. Lovecraft</li>
+            <li>"Judge a man by his questions rather than his answers" – Voltaire</li>
+            <li>"I judge people by their own principles, not by my own" – Martin Luther King, Jr</li>
+            <li>"You're Breathtaking" – Keanu Reeves</li>
+        </ul>
+    </section>
+
+    <footer class="footer">
+        <div class="footer__content">
+            <div class="footer__column">
+            <h3>Site</h3>
+            <a href="#about">About me</a>
+            <a href="#goals">Goals</a>
+            <a href="#videos">Videos</a>
+            <a href="#readings">Readings</a>
+            <a href="#quotes">Quotes</a>
+            </div>
+            <div class="footer__column">
+            <h3>Links</h3>
+            <a href="https://open.spotify.com/user/udedu" class="link" target="_blank">Spotify</a>
+            <a href="https://www.instagram.com/eduardo.nothing" class="link" target="_blank">Instagram</a>
+            <a href="https://twitter.com/DuNetuno" class="link" target="_blank">Twitter</a>
+            <a href="https://www.linkedin.com/in/eduardodemoura" class="link" target="_blank">LinkedIn</a>
+            <a href="https://musescore.com/user/88286266" class="link" target="_blank">MuseScore</a>
+            <a href="https://github.com/eduardosm7" class="link">Github</a>
+            <a href="https://www.last.fm/pt/user/udedu" class="link" target="_blank">last.fm</a>
+            <a href="https://www.dotabuff.com/players/92984991" class="link" target="_blank">DOTABUFF</a>
+            <a href="https://steamcommunity.com/profiles/76561198053250719" class="link" target="_blank">Steam</a>
+            <a href="https://www.youtube.com/@EduardoDeMoura_" class="link" target="_blank">YouTube</a>
+            </div>
+        </div>
+
+        <div class="footer__bottom">
+            &copy; 2025 Eduardo de Moura. All rights reserved.
+        </div>
+    </footer>
+  </div>
+
+  <script>
+    function toggleTheme() {
+      const html = document.documentElement;
+      const newTheme = html.getAttribute("data-theme") === "light" ? "dark" : "light";
+      html.setAttribute("data-theme", newTheme);
+      document.body.style.transition = "background-color 0.2s ease, color 0.2s ease";
+      localStorage.setItem("theme", newTheme);
+    }
+
+    const savedTheme = localStorage.getItem("theme");
+    if (savedTheme) {
+      document.documentElement.setAttribute("data-theme", savedTheme);
+    }
+  </script>
+</body>
+</html>
